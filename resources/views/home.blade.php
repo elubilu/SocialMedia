@@ -31,10 +31,10 @@
             <ul class="navbar-nav main-menu ml-auto">
               
                 <li><a href="#">Home</a> </li>             
-                <li><a href="about.html">About</a></li>
-                 <li><a href="about.html">Service</a></li>
+                <li><a href="#">About</a></li>
+                 <li><a href="#">Service</a></li>
            
-                <li><a href="contact.html">contact us</a></li>
+                <li><a href="#">contact us</a></li>
 <!--
               <li class="menu_has_children"><a href="#0">services</a>
                 <ul class="sub-menu">
